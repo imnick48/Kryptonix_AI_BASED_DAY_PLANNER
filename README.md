@@ -1,4 +1,4 @@
-# 🧠 Kryptonix AI-Based Day Planner
+# 🧠 AI-Based Day Planner
 
 Kryptonix is an AI-powered day planner that lets users describe their daily activities in plain language, and automatically turns them into a structured meeting schedule.  
 It uses the **OpenRouter AI API** to understand natural language and generate meeting data with proper titles, dates, and times.  
